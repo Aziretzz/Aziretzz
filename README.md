@@ -22,10 +22,32 @@ Mobile and Back-End developer
 
 ## My GitHub Snake
 
-![github snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)<picture>
+![github snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-snake.svg" />
 </picture>
+name: Generate GitHub Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Запуск каждый день в полночь
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 
