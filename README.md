@@ -22,8 +22,8 @@ Mobile and Back-End developer
 
 ## My GitHub Snake
 
+![github snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-![github snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 
