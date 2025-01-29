@@ -7,11 +7,11 @@
 Mobile and Back-End developer
 -----------------------------
 
-🚀 Passionate about building intuitive and scalable mobile applications. 
-💻 Always striving to improve code quality and user experience.
-🎯 Focused on creating seamless cross-platform solutions with Compose Multiplatform.
-🤖 Enthusiast of automation and optimizing workflows. 
-💬 Love collaborating with others and learning from new challenges.
+*🚀 Passionate about building intuitive and scalable mobile applications. 
+*💻 Always striving to improve code quality and user experience.
+*🎯 Focused on creating seamless cross-platform solutions with Compose Multiplatform.
+*🤖 Enthusiast of automation and optimizing workflows. 
+*💬 Love collaborating with others and learning from new challenges.
 
 * 🌍  I'm based in Kyrgyzstan in Osh city
 * ✉️  You can contact me at [aziretrasulov@gmail.com](mailto:aziretrasulov@gmail.com)
