@@ -20,7 +20,6 @@ Mobile and Back-End developer
 </p>
 
 
-<picture>
+## My GitHub Snake
 
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![github snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
