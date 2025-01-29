@@ -1,7 +1,10 @@
 <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47hl5rj9pk3ry7s3dv1qkn54fhg0frkl6cej53o9na&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" />
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rasulov Aziret
+<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47hl5rj9pk3ry7s3dv1qkn54fhg0frkl6cej53o9na&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" />
+
+Hi, my name is Rasulov Aziret  
 ======================================================================================================================================
+
 
 Mobile and Back-End developer
 -----------------------------
