@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7EC8F8,50:A8E6F0,100:9FF5D6&height=230&section=header&text=Aziretzz&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Kotlin%20Multiplatform%20%E2%80%A2%20Flutter%20%E2%80%A2%20React%20Native%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="./header.svg" width="100%" alt="Aziretzz"/>
 </p>
 
 <p align="center">
