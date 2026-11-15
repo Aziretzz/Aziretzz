@@ -40,7 +40,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Briefcase.png" width="28"/> Featured Projects & Works
+## Featured Projects & Works
 
 Здесь собраны ключевые коммерческие и рабочие проекты, которые успешно запущены и функционируют:
 
