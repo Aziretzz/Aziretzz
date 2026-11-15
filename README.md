@@ -43,18 +43,16 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,react,ts,androidstudio,swift,firebase,git,figma&theme=dark&perline=10"/>
 </p>
-
-<!-- 🖼 ФОТО 5 — рядом со статистикой -->
+<!-- 🖼 ФОТО 5,6,7 — рядом со статистикой -->
 <p align="center">
-  <img src="./anime5.png" width="250" alt=""/>
-</p>
-<!-- 🖼 ФОТО 6 и 7 — по бокам от "arigatou" -->
-<p align="center">
-   <img src="./anime6.png" width="30%" alt=""/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=5FD3B8&center=true&vCenter=true&width=320&height=60&lines=arigatou+%E2%9C%A6;thanks+for+visiting!" alt=""/>
-  &nbsp;&nbsp;&nbsp;
+  <img src="./anime6.png" width="30%" alt=""/>
+  <img src="./anime5.png" width="30%" alt=""/>
   <img src="./anime7.png" width="30%" alt=""/>
+</p>
+
+<!-- "arigatou" -->
+<p align="center"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=5FD3B8&center=true&vCenter=true&width=320&height=60&lines=arigatou+%E2%9C%A6;thanks+for+visiting!" alt=""/>
 </p>
 
 
