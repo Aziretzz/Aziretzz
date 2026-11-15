@@ -48,7 +48,7 @@
 
 <!-- 🖼 ФОТО 5 — рядом со статистикой -->
 <p align="center">
-  <img src="./anime5.png" width="240" alt=""/>
+  <img src="./anime5.png" width="250" alt=""/>
 </p>
 
 <!-- 🖼 ФОТО 6 и 7 — по бокам от "arigatou" -->
@@ -60,6 +60,4 @@
   <img src="./anime7.png" width="30%" alt=""/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FF5D6,100:7EC8F8&height=120&section=footer" width="100%"/>
-</p>
+
