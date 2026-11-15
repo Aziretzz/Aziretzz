@@ -44,8 +44,6 @@
   <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,react,ts,androidstudio,swift,firebase,git,figma&theme=dark&perline=10"/>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="28"/> GitHub stats
-
 <!-- 🖼 ФОТО 5 — рядом со статистикой -->
 <p align="center">
   <img src="./anime5.png" width="250" alt=""/>
