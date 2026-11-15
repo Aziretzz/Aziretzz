@@ -50,7 +50,6 @@
 <p align="center">
   <img src="./anime5.png" width="250" alt=""/>
 </p>
-
 <!-- 🖼 ФОТО 6 и 7 — по бокам от "arigatou" -->
 <p align="center">
   <img src="./anime6.png" width="30%" alt=""/>
