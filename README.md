@@ -19,14 +19,14 @@
 </p>
 
 <!-- 🖼 ФОТО 1 — справа от "Hi there" -->
-<img src="./anime1.png" align="right" width="230" alt=""/>
+<img src="./anime1.png" align="right" width="240" alt=""/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28"/> Hi there!
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20"/> I'm a **cross-platform mobile developer**: **Kotlin Multiplatform**, **Flutter** and **React Native**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20"/> I build apps for **Android** and **iOS** from a shared codebase
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" width="20"/> Anime enjoyer
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="20"/> Coding to K-pop — **BABYMONSTER** on repeat
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" width="20"/> !$**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="20"/> Enjoying always
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="20"/> Always open to cool projects & collabs
 
 <br clear="right"/>
@@ -49,7 +49,6 @@
 <!-- 🖼 ФОТО 5 — рядом со статистикой -->
 <p align="center">
   <img src="./anime5.png" width="240" alt=""/>
-  <img src="https://streak-stats.demolab.com?user=Aziretzz&hide_border=true&background=0B2233&ring=9FF5D6&fire=7EC8F8&currStreakLabel=9FF5D6&sideLabels=7EC8F8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A8E6F0&stroke=1E4A5F"/>
 </p>
 
 <!-- 🖼 ФОТО 6 и 7 — по бокам от "arigatou" -->
