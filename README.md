@@ -48,7 +48,7 @@
 
 <!-- 🖼 ФОТО 5 — рядом со статистикой -->
 <p align="center">
-  <img src="./anime5.png" height="235" alt=""/>
+  <img src="./anime5.png" width="240" alt=""/>
   <img src="https://streak-stats.demolab.com?user=Aziretzz&hide_border=true&background=0B2233&ring=9FF5D6&fire=7EC8F8&currStreakLabel=9FF5D6&sideLabels=7EC8F8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A8E6F0&stroke=1E4A5F"/>
 </p>
 
