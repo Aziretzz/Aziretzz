@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Level-Middle_Developer-7EC8F8?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/KMP_Developer-7EC8F8?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter_Developer-9FF5D6?style=for-the-badge&logo=flutter&logoColor=1b4d5c"/>
   <img src="https://img.shields.io/badge/React_Native_Developer-7EC8F8?style=for-the-badge&logo=react&logoColor=white"/>
@@ -42,24 +41,22 @@
 
 ## Featured Projects & Works
 
-Здесь собраны ключевые коммерческие и рабочие проекты, которые успешно запущены и функционируют:
-
 ### <img src="https://skillicons.dev/icons?i=kotlin" width="22" style="vertical-align: middle;" /> Kotlin Multiplatform
-* **Proctoring System SB Test** — система прокторинга для тестирования.
-* **CRM System Baiel** — CRM-система для автоматизации бизнес-процессов.
+* **Proctoring System SB Test** — A proctoring system for online testing and examinations.
+* **CRM System Baiel** — A CRM system designed to automate business workflows.
 
 ### <img src="https://skillicons.dev/icons?i=flutter" width="22" style="vertical-align: middle;" /> Flutter
-* **Baytur Issyk-Kyl** — мобильное приложение для курортного отеля и спа-комплекса на Иссык-Куле.
-* **Baytur Suusamyr** — приложение для горнолыжного курорта и лечебницы на основе кымыза в Суусамыре.
-* **Green bonus** — экологическое приложение для сбора и переработки пластиковых отходов.
+* **Baytur Issyk-Kyl** — A mobile application for a resort hotel and spa complex on Lake Issyk-Kul.
+* **Baytur Suusamyr** — An app for a mountain ski resort and traditional kumis health retreat in Suusamyr.
+* **Green bonus** — An eco-friendly application aimed at collecting and recycling plastic waste.
 
 ### <img src="https://skillicons.dev/icons?i=react" width="22" style="vertical-align: middle;" /> React Native
-* **Sinteza** — комплексный AI-генератор веб-сервиса (видео, изображения, голос).
-* **SB Menu** — удобная цифровая экосистема/приложение для ресторанов и общепита.
-* **Beiman Wear** — современный интернет-магазин брендовой одежды.
+* **Sinteza** — An all-in-one AI generator web service platform (video, image, voice generation).
+* **SB Menu** — A digital ecosystem and app built for restaurants and the food service industry.
+* **Beiman Wear** — A modern branded clothing online store.
 
 ### <img src="https://skillicons.dev/icons?i=js" width="22" style="vertical-align: middle;" /> JavaScript
-* **Asman Tourism** — туристический веб-сайт для путешествий и бронирования.
+* **Asman Tourism** — A tourism website designed for travel discovery and bookings.
 
 ---
 
