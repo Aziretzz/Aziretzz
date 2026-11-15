@@ -52,6 +52,7 @@
 
 <!-- "arigatou" -->
 <p align="center"
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=5FD3B8&center=true&vCenter=true&width=320&height=60&lines=arigatou+%E2%9C%A6;thanks+for+visiting!" alt=""/>
 </p>
 
