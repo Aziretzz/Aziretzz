@@ -20,9 +20,6 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
-<!-- 🖼 ФОТО 1 — справа от приветствия -->
-<img src="./anime1.png" align="right" width="240" alt=""/>
-
 ## <img src="./assets/skull.svg" width="26" align="top"/> Hi there
 
 - <img src="./assets/phone.svg" width="18" align="top"/> I'm a **Middle Cross-Platform Mobile Developer**
@@ -30,7 +27,10 @@
 - <img src="./assets/code.svg" width="18" align="top"/> Always enjoying clean code and cool architecture
 - <img src="./assets/handshake.svg" width="18" align="top"/> Always open to cool projects & collabs
 
-<br clear="right"/>
+<!-- 🖼 ФОТО 1 — по центру под приветствием -->
+<p align="center">
+  <img src="./anime1.png" width="45%" alt=""/>
+</p>
 
 <!-- 🖼 ФОТО 2, 3, 4 — галерея в ряд -->
 <p align="center">
@@ -88,13 +88,14 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
-<!-- 🖼 ФОТО 10 и 11 — по бокам от прощальной надписи -->
+<!-- 🖼 ФОТО 10 и 11 — в ряд перед прощальной надписью -->
 <p align="center">
-  <img src="./anime10.png" width="26%" alt=""/>
-  &nbsp;&nbsp;
+  <img src="./anime10.png" width="40%" alt=""/>
+  <img src="./anime11.png" width="40%" alt=""/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=2500&pause=800&color=C41E3A&center=true&vCenter=true&width=320&height=60&lines=thanks+for+visiting;stay+weird" alt=""/>
-  &nbsp;&nbsp;
-  <img src="./anime11.png" width="26%" alt=""/>
 </p>
 
 <p align="center">
