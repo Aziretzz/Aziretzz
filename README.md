@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=34&pause=900&color=C41E3A&center=true&vCenter=true&width=700&height=60&lines=Aziretzz;Kotlin+Multiplatform+Developer;Flutter+Developer;React+Native+Developer;one+codebase.+two+platforms.+no+mercy." alt="Typing SVG"/>
-  </a>
+  <img src="./assets/web-corner-left.svg" width="17%" align="top"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=34&pause=900&color=C41E3A&center=true&vCenter=true&width=700&height=60&lines=Aziretzz;Kotlin+Multiplatform+Developer;Flutter+Developer;React+Native+Developer;one+codebase.+two+platforms.+no+mercy." width="60%" alt="Typing SVG"/>
+  <img src="./assets/web-corner-right.svg" width="17%" align="top"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,9 @@
   <img src="https://komarev.com/ghpvc/?username=Aziretzz&color=8B0000&style=flat-square&label=souls+visited"/>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
+
+<img src="./assets/spider-hang.svg" align="right" width="60" alt=""/>
 
 ## <img src="./assets/skull.svg" width="26" align="top"/> Hi there
 
@@ -39,7 +41,7 @@
   <img src="./anime4.png" width="30%" alt=""/>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
 
 ## <img src="./assets/cross.svg" width="26" align="top"/> Featured Projects & Works
 
@@ -60,7 +62,7 @@
 ### <img src="https://skillicons.dev/icons?i=js" width="22"/> JavaScript
 * **Asman Tourism** — A tourism website designed for travel discovery and bookings.
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
 
 ## <img src="./assets/chain.svg" width="26" align="top"/> Tech stack
 
@@ -75,7 +77,9 @@
   <img src="./anime7.png" width="30%" alt=""/>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
+
+<img src="./assets/spider-hang.svg" align="right" width="60" alt=""/>
 
 ## <img src="./assets/web.svg" width="26" align="top"/> GitHub stats
 
@@ -86,7 +90,7 @@
   <img src="./anime9.png" width="24%" alt=""/>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
 
 <!-- 🖼 ФОТО 10 и 11 — в ряд перед прощальной надписью -->
 <p align="center">
@@ -95,9 +99,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=2500&pause=800&color=C41E3A&center=true&vCenter=true&width=320&height=60&lines=thanks+for+visiting;stay+weird" alt=""/>
+  <img src="./assets/web-corner-left.svg" width="17%" align="top"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=2500&pause=800&color=C41E3A&center=true&vCenter=true&width=320&height=60&lines=thanks+for+visiting;stay+weird" width="60%" alt=""/>
+  <img src="./assets/web-corner-right.svg" width="17%" align="top"/>
 </p>
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1682425646729-19bbd9c59e1b?w=1600&h=260&fit=crop&crop=center&sat=-100&q=80" width="100%" alt="footer"/>
 </p>
+
+<p align="center"><sub>Credits: spider — <a href="https://commons.wikimedia.org/wiki/File:Okanogan-Orb_weaver_spider-001.svg">Wikimedia Commons</a> (CC BY-SA 3.0) · spider webs — <a href="https://commons.wikimedia.org/wiki/File:Spiders_web.svg">Wikimedia Commons</a> (CC0) · ornament — <a href="https://commons.wikimedia.org/wiki/File:Headpiece_with_spiderweb_and_roses.svg">Wikimedia Commons</a> (public domain) · photos — <a href="https://unsplash.com">Unsplash</a></sub></p>
