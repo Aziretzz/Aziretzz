@@ -2,6 +2,11 @@
   <img src="./assets/header-full.svg" width="100%" alt="header"/>
 </p>
 
+<!-- 🕸 Аватар с декорацией -->
+<p align="center">
+  <img src="./assets/avatar.svg" width="230" alt="avatar"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=40&pause=900&color=C41E3A&center=true&vCenter=true&width=460&height=80&lines=Aziretzz;Kotlin+Multiplatform+Developer;Flutter+Developer;React+Native+Developer;one+codebase.+two+platforms.+no+mercy." alt="Typing SVG"/>
 </p>
@@ -88,6 +93,11 @@
   <img src="./anime8.png" width="24%" alt=""/>
   <img src="https://streak-stats.demolab.com?user=Aziretzz&hide_border=true&background=0D0D0D&ring=8B0000&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BBBBBB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&stroke=333333" width="48%"/>
   <img src="./anime9.png" width="24%" alt=""/>
+</p>
+
+<!-- 🐍 Змейка из вкладов (обновляется сама каждые 12 часов) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aziretzz/Aziretzz/output/snake.svg" width="100%" alt="snake"/>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
