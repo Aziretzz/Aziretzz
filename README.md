@@ -43,21 +43,21 @@
 
 ## <img src="./assets/cross.svg" width="26" align="top"/> Featured Projects & Works
 
-### <img src="https://skillicons.dev/icons?i=kotlin" width="22"/> Kotlin Multiplatform
+### <img src="https://skillicons.dev/icons?i=kotlin" width="22"/> Kotlin Multiplatform <img src="./assets/cat.svg" height="34" align="top"/>
 * **Proctoring System SB Test** — A proctoring system for online testing and examinations.
 * **CRM System Baiel** — A CRM system designed to automate business workflows.
 
-### <img src="https://skillicons.dev/icons?i=flutter" width="22"/> Flutter
+### <img src="https://skillicons.dev/icons?i=flutter" width="22"/> Flutter <img src="./assets/bat.svg" height="30" align="top"/>
 * **Baytur Issyk-Kul** — A mobile application for a resort hotel and spa complex on Lake Issyk-Kul.
 * **Baytur Suusamyr** — An app for a mountain ski resort and traditional kumis health retreat in Suusamyr.
 * **Green bonus** — An eco-friendly application aimed at collecting and recycling plastic waste.
 
-### <img src="https://skillicons.dev/icons?i=react" width="22"/> React Native
+### <img src="https://skillicons.dev/icons?i=react" width="22"/> React Native <img src="./assets/cat.svg" height="34" align="top"/>
 * **Sinteza** — An all-in-one AI generator web service platform (video, image, voice generation).
 * **SB Menu** — A digital ecosystem and app built for restaurants and the food service industry.
 * **Beiman Wear** — A modern branded clothing online store.
 
-### <img src="https://skillicons.dev/icons?i=js" width="22"/> JavaScript
+### <img src="https://skillicons.dev/icons?i=js" width="22"/> JavaScript <img src="./assets/bat.svg" height="30" align="top"/>
 * **Asman Tourism** — A tourism website designed for travel discovery and bookings.
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
