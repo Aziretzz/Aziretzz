@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1752486345389-ed3b299f34af?w=1600&h=430&fit=crop&crop=center&sat=-100&exp=-8&q=80" width="100%" alt="header"/>
+  <img src="./assets/web-corner-left.svg" width="12%" align="top"/><img src="https://images.unsplash.com/photo-1752486345389-ed3b299f34af?w=1600&h=430&fit=crop&crop=center&sat=-100&exp=-8&q=80" width="74%" alt="header"/><img src="./assets/web-corner-right.svg" width="12%" align="top"/>
 </p>
 
 <p align="center">
-  <img src="./assets/web-corner-left.svg" width="17%" align="top"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=40&pause=900&color=C41E3A&center=true&vCenter=true&width=460&height=80&lines=Aziretzz;Kotlin+Multiplatform+Developer;Flutter+Developer;React+Native+Developer;one+codebase.+two+platforms.+no+mercy." width="60%" alt="Typing SVG"/>
-  <img src="./assets/web-corner-right.svg" width="17%" align="top"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=40&pause=900&color=C41E3A&center=true&vCenter=true&width=460&height=80&lines=Aziretzz;Kotlin+Multiplatform+Developer;Flutter+Developer;React+Native+Developer;one+codebase.+two+platforms.+no+mercy." alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -99,13 +97,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/web-corner-left.svg" width="17%" align="top"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=40&duration=2500&pause=800&color=C41E3A&center=true&vCenter=true&width=460&height=80&lines=thanks+for+visiting;stay+weird" width="60%" alt=""/>
-  <img src="./assets/web-corner-right.svg" width="17%" align="top"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=40&duration=2500&pause=800&color=C41E3A&center=true&vCenter=true&width=460&height=80&lines=thanks+for+visiting;stay+weird" alt=""/>
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1682425646729-19bbd9c59e1b?w=1600&h=260&fit=crop&crop=center&sat=-100&q=80" width="100%" alt="footer"/>
+  <img src="./assets/web-corner-left.svg" width="12%" align="top"/><img src="https://images.unsplash.com/photo-1682425646729-19bbd9c59e1b?w=1600&h=260&fit=crop&crop=center&sat=-100&q=80" width="74%" alt="footer"/><img src="./assets/web-corner-right.svg" width="12%" align="top"/>
 </p>
 
 <p align="center"><sub>Credits: spider — <a href="https://commons.wikimedia.org/wiki/File:Okanogan-Orb_weaver_spider-001.svg">Wikimedia Commons</a> (CC BY-SA 3.0) · spider webs — <a href="https://commons.wikimedia.org/wiki/File:Spiders_web.svg">Wikimedia Commons</a> (CC0) · ornament — <a href="https://commons.wikimedia.org/wiki/File:Headpiece_with_spiderweb_and_roses.svg">Wikimedia Commons</a> (public domain) · photos — <a href="https://unsplash.com">Unsplash</a></sub></p>
