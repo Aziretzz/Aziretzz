@@ -18,7 +18,7 @@
 
 <p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
 
-<img src="./assets/spider-hang.svg" align="right" width="60" alt=""/>
+<img src="./assets/spider-hang.svg" align="right" width="50" alt=""/>
 
 ## <img src="./assets/skull.svg" width="26" align="top"/> Hi there
 
@@ -77,9 +77,11 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
-<img src="./assets/spider-hang.svg" align="right" width="60" alt=""/>
+<img src="./assets/spider-hang.svg" align="right" width="50" alt=""/>
 
 ## <img src="./assets/web.svg" width="26" align="top"/> GitHub stats
+
+<br clear="right"/>
 
 <!-- 🖼 ФОТО 8 и 9 — по бокам от статистики -->
 <p align="center">
