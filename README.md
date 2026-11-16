@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/web-corner-left.svg" width="12%" align="top"/><img src="https://images.unsplash.com/photo-1752486345389-ed3b299f34af?w=1600&h=430&fit=crop&crop=center&sat=-100&exp=-8&q=80" width="74%" alt="header"/><img src="./assets/web-corner-right.svg" width="12%" align="top"/>
+  <img src="./assets/header-full.svg" width="100%" alt="header"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=Aziretzz&color=8B0000&style=flat-square&label=souls+visited"/>
 </p>
 
-<p align="center"><img src="./assets/divider-web.svg" width="70%"/></p>
+<p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
 
 <img src="./assets/spider-hang.svg" align="right" width="60" alt=""/>
 
@@ -39,7 +39,7 @@
   <img src="./anime4.png" width="30%" alt=""/>
 </p>
 
-<p align="center"><img src="./assets/divider-web.svg" width="70%"/></p>
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 ## <img src="./assets/cross.svg" width="26" align="top"/> Featured Projects & Works
 
@@ -60,7 +60,7 @@
 ### <img src="https://skillicons.dev/icons?i=js" width="22"/> JavaScript
 * **Asman Tourism** — A tourism website designed for travel discovery and bookings.
 
-<p align="center"><img src="./assets/divider-web.svg" width="70%"/></p>
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 ## <img src="./assets/chain.svg" width="26" align="top"/> Tech stack
 
@@ -75,7 +75,7 @@
   <img src="./anime7.png" width="30%" alt=""/>
 </p>
 
-<p align="center"><img src="./assets/divider-web.svg" width="70%"/></p>
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 <img src="./assets/spider-hang.svg" align="right" width="60" alt=""/>
 
@@ -88,7 +88,7 @@
   <img src="./anime9.png" width="24%" alt=""/>
 </p>
 
-<p align="center"><img src="./assets/divider-web.svg" width="70%"/></p>
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 <!-- 🖼 ФОТО 10 и 11 — в ряд перед прощальной надписью -->
 <p align="center">
@@ -101,7 +101,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/web-corner-left.svg" width="12%" align="top"/><img src="https://images.unsplash.com/photo-1682425646729-19bbd9c59e1b?w=1600&h=260&fit=crop&crop=center&sat=-100&q=80" width="74%" alt="footer"/><img src="./assets/web-corner-right.svg" width="12%" align="top"/>
+  <img src="./assets/footer-full.svg" width="100%" alt="footer"/>
 </p>
 
 <p align="center"><sub>Credits: spider — <a href="https://commons.wikimedia.org/wiki/File:Okanogan-Orb_weaver_spider-001.svg">Wikimedia Commons</a> (CC BY-SA 3.0) · spider webs — <a href="https://commons.wikimedia.org/wiki/File:Spiders_web.svg">Wikimedia Commons</a> (CC0) · ornament — <a href="https://commons.wikimedia.org/wiki/File:Headpiece_with_spiderweb_and_roses.svg">Wikimedia Commons</a> (public domain) · photos — <a href="https://unsplash.com">Unsplash</a></sub></p>
