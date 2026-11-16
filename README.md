@@ -22,8 +22,8 @@
 
 ## <img src="./assets/skull.svg" width="26" align="top"/> Hi there
 
-- <img src="./assets/phone.svg" width="18" align="top"/> I'm a **Middle Cross-Platform Mobile Developer**
-- <img src="./assets/phones.svg" width="18" align="top"/> I build apps for **Android** and **iOS** from a shared codebase
+- <img src="./assets/phone.svg" width="18" align="top"/> I'm a **Middle Cross-Platform Developer**
+- <img src="./assets/phones.svg" width="18" align="top"/> I work with **Kotlin Multiplatform**, **Flutter** and **React Native**
 - <img src="./assets/code.svg" width="18" align="top"/> Always enjoying clean code and cool architecture
 - <img src="./assets/handshake.svg" width="18" align="top"/> Always open to cool projects & collabs
 
