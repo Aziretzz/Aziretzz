@@ -83,7 +83,7 @@
 <p align="center">
   <img src="./anime8.png" width="24%" alt=""/>
   <img src="https://streak-stats.demolab.com?user=Aziretzz&hide_border=true&background=0D0D0D&ring=8B0000&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BBBBBB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&stroke=333333" width="48%"/>
-  <img src="./anime9.png" width="24%" alt=""/>
+  <img src="./anime9.png" width="34%" alt=""/>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
