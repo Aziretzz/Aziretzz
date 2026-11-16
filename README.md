@@ -102,6 +102,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=40&duration=2500&pause=800&color=C41E3A&center=true&vCenter=true&width=460&height=80&lines=thanks+for+visiting;stay+weird" alt=""/>
 </p>
 
+<!-- 🕯 Цитаты — сменяются по очереди -->
+<p align="center">
+  <img src="./assets/quote.svg" width="90%" alt="quote"/>
+</p>
+
 <p align="center">
   <img src="./assets/footer-full.svg" width="100%" alt="footer"/>
 </p>
