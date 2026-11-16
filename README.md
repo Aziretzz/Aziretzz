@@ -106,4 +106,3 @@
   <img src="./assets/footer-full.svg" width="100%" alt="footer"/>
 </p>
 
-<p align="center"><sub>Credits: spider — <a href="https://commons.wikimedia.org/wiki/File:Okanogan-Orb_weaver_spider-001.svg">Wikimedia Commons</a> (CC BY-SA 3.0) · spider webs — <a href="https://commons.wikimedia.org/wiki/File:Spiders_web.svg">Wikimedia Commons</a> (CC0) · ornament — <a href="https://commons.wikimedia.org/wiki/File:Headpiece_with_spiderweb_and_roses.svg">Wikimedia Commons</a> (public domain) · photos — <a href="https://unsplash.com">Unsplash</a></sub></p>
