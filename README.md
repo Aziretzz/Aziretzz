@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="./assets/web-corner-left.svg" width="17%" align="top"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=34&pause=900&color=C41E3A&center=true&vCenter=true&width=700&height=60&lines=Aziretzz;Kotlin+Multiplatform+Developer;Flutter+Developer;React+Native+Developer;one+codebase.+two+platforms.+no+mercy." width="60%" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=40&pause=900&color=C41E3A&center=true&vCenter=true&width=460&height=80&lines=Aziretzz;Kotlin+Multiplatform+Developer;Flutter+Developer;React+Native+Developer;one+codebase.+two+platforms.+no+mercy." width="60%" alt="Typing SVG"/>
   <img src="./assets/web-corner-right.svg" width="17%" align="top"/>
 </p>
 
@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=Aziretzz&color=8B0000&style=flat-square&label=souls+visited"/>
 </p>
 
-<p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
+<p align="center"><img src="./assets/divider-web.svg" width="70%"/></p>
 
 <img src="./assets/spider-hang.svg" align="right" width="60" alt=""/>
 
@@ -41,7 +41,7 @@
   <img src="./anime4.png" width="30%" alt=""/>
 </p>
 
-<p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
+<p align="center"><img src="./assets/divider-web.svg" width="70%"/></p>
 
 ## <img src="./assets/cross.svg" width="26" align="top"/> Featured Projects & Works
 
@@ -62,7 +62,7 @@
 ### <img src="https://skillicons.dev/icons?i=js" width="22"/> JavaScript
 * **Asman Tourism** — A tourism website designed for travel discovery and bookings.
 
-<p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
+<p align="center"><img src="./assets/divider-web.svg" width="70%"/></p>
 
 ## <img src="./assets/chain.svg" width="26" align="top"/> Tech stack
 
@@ -77,7 +77,7 @@
   <img src="./anime7.png" width="30%" alt=""/>
 </p>
 
-<p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
+<p align="center"><img src="./assets/divider-web.svg" width="70%"/></p>
 
 <img src="./assets/spider-hang.svg" align="right" width="60" alt=""/>
 
@@ -90,7 +90,7 @@
   <img src="./anime9.png" width="24%" alt=""/>
 </p>
 
-<p align="center"><img src="./assets/divider-web.svg" width="100%"/></p>
+<p align="center"><img src="./assets/divider-web.svg" width="70%"/></p>
 
 <!-- 🖼 ФОТО 10 и 11 — в ряд перед прощальной надписью -->
 <p align="center">
@@ -100,7 +100,7 @@
 
 <p align="center">
   <img src="./assets/web-corner-left.svg" width="17%" align="top"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=2500&pause=800&color=C41E3A&center=true&vCenter=true&width=320&height=60&lines=thanks+for+visiting;stay+weird" width="60%" alt=""/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=40&duration=2500&pause=800&color=C41E3A&center=true&vCenter=true&width=460&height=80&lines=thanks+for+visiting;stay+weird" width="60%" alt=""/>
   <img src="./assets/web-corner-right.svg" width="17%" align="top"/>
 </p>
 
