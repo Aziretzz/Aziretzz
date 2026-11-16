@@ -27,12 +27,12 @@
 - <img src="./assets/code.svg" width="18" align="top"/> Always enjoying clean code and cool architecture
 - <img src="./assets/handshake.svg" width="18" align="top"/> Always open to cool projects & collabs
 
-<!-- 🖼 ФОТО 1 — по центру под приветствием -->
+
 <p align="center">
   <img src="./anime1.png" width="45%" alt=""/>
 </p>
 
-<!-- 🖼 ФОТО 2, 3, 4 — галерея в ряд -->
+
 <p align="center">
   <img src="./anime2.png" width="30%" alt=""/>
   <img src="./anime3.png" width="30%" alt=""/>
@@ -68,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,react,ts,js,androidstudio,swift,firebase,git,figma&theme=dark&perline=11"/>
 </p>
 
-<!-- 🖼 ФОТО 5, 6, 7 — галерея в ряд -->
+
 <p align="center">
   <img src="./anime6.png" width="30%" alt=""/>
   <img src="./anime5.png" width="30%" alt=""/>
@@ -83,7 +83,7 @@
 
 <br clear="right"/>
 
-<!-- 🖼 ФОТО 8 и 9 — по бокам от статистики -->
+
 <p align="center">
   <img src="./anime8.png" width="24%" alt=""/>
   <img src="https://streak-stats.demolab.com?user=Aziretzz&hide_border=true&background=0D0D0D&ring=8B0000&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BBBBBB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&stroke=333333" width="48%"/>
@@ -92,7 +92,7 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
-<!-- 🖼 ФОТО 10 и 11 — в ряд перед прощальной надписью -->
+
 <p align="center">
   <img src="./anime10.png" width="40%" alt=""/>
   <img src="./anime11.png" width="40%" alt=""/>
